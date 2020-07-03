@@ -13,6 +13,8 @@
  
  Get the API URL and paste it in the api.service.ts in the place of environment.apiUrl.
  
+![Alt text](./images/deploy.png?raw=true "Deploy service")
+ 
  ## Host on Amazon S3
  Enable static web hosting in your aws S3 bucket. 
  
